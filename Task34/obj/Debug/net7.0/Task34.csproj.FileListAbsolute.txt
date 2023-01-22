@@ -1,0 +1,15 @@
+D:\vsc\C#\HW5_sem\Task34\obj\Debug\net7.0\Task34.csproj.AssemblyReference.cache
+D:\vsc\C#\HW5_sem\Task34\obj\Debug\net7.0\Task34.GeneratedMSBuildEditorConfig.editorconfig
+D:\vsc\C#\HW5_sem\Task34\obj\Debug\net7.0\Task34.AssemblyInfoInputs.cache
+D:\vsc\C#\HW5_sem\Task34\obj\Debug\net7.0\Task34.AssemblyInfo.cs
+D:\vsc\C#\HW5_sem\Task34\obj\Debug\net7.0\Task34.csproj.CoreCompileInputs.cache
+D:\vsc\C#\HW5_sem\Task34\bin\Debug\net7.0\Task34.exe
+D:\vsc\C#\HW5_sem\Task34\bin\Debug\net7.0\Task34.deps.json
+D:\vsc\C#\HW5_sem\Task34\bin\Debug\net7.0\Task34.runtimeconfig.json
+D:\vsc\C#\HW5_sem\Task34\bin\Debug\net7.0\Task34.dll
+D:\vsc\C#\HW5_sem\Task34\bin\Debug\net7.0\Task34.pdb
+D:\vsc\C#\HW5_sem\Task34\obj\Debug\net7.0\Task34.dll
+D:\vsc\C#\HW5_sem\Task34\obj\Debug\net7.0\refint\Task34.dll
+D:\vsc\C#\HW5_sem\Task34\obj\Debug\net7.0\Task34.pdb
+D:\vsc\C#\HW5_sem\Task34\obj\Debug\net7.0\Task34.genruntimeconfig.cache
+D:\vsc\C#\HW5_sem\Task34\obj\Debug\net7.0\ref\Task34.dll
